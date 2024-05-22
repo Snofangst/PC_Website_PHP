@@ -1,0 +1,122 @@
+ .u-section-1 {
+  background-image: url(../Images/Website/abstract-graffiti-art-background-with-scribble-throw-up-and-tagging-hand-drawn-style-street-art-graffiti-urban-theme-for-prints-patterns-banners-and-textiles-in-format-free-vector_3.jpg);
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 603px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 338px;
+  width: 474px;
+  margin: 219px auto 0;
+}
+
+.u-section-1 .u-label-1 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-2 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-3 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-btn-1 {
+  font-weight: 700;
+  background-image: none;
+  border-style: solid;
+  font-size: 1.125rem;
+  padding: 8px 30px 10px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 493px;
+  height: 197px;
+  margin: -527px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 513px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 434px;
+    margin-top: 182px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -520px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 489px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 341px;
+    margin-top: 133px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 418px;
+    height: 145px;
+    margin-top: -471px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 494px;
+  }
+
+  .u-section-1 .u-form-1 {
+    height: 339px;
+    width: 391px;
+    margin-top: 153px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    padding-top: 9px;
+    padding-left: 29px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 426px;
+    height: 173px;
+    margin-top: -490px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 525px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 284px;
+    margin-top: 165px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 138px;
+    margin-top: -469px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}

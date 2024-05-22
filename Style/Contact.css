@@ -1,0 +1,65 @@
+ .u-section-1 {
+  background-image: url(../Images/Website/flowers.png);
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 606px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 549px;
+  width: 511px;
+  margin: 29px auto;
+}
+
+.u-section-1 .u-image-1 {
+  width: 491px;
+  height: 101px;
+  margin-left:auto;
+}
+
+.u-section-1 .u-label-1 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-label-2 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-label-3 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-btn-1 {
+  font-weight: 700;
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 400px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 467px;
+  }
+
+  .u-section-1 .u-form-1 {
+    height: 438px;
+    width: 391px;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}

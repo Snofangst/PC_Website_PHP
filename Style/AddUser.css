@@ -1,0 +1,165 @@
+ .u-section-1 {
+  background-image: url(../Images/Website/abstract-graffiti-art-background-with-scribble-throw-up-and-tagging-hand-drawn-style-street-art-graffiti-urban-theme-for-prints-patterns-banners-and-textiles-in-format-free-vector_3.jpg);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 827px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 624px;
+  height: 216px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-form-1 {
+  height: 618px;
+  --radio-checked-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3e%3ccircle r='2' fill='%23478ac9'/%3e%3c/svg%3e");
+  width: 729px;
+  margin: -22px auto 15px;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-1 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-2 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-3 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-4 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-5 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-label-6 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-form-group-7 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-7 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-form-group-8 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-8 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-btn-1 {
+  font-weight: 700;
+  background-image: none;
+  border-style: solid;
+  font-size: 1.125rem;
+  padding: 8px 30px 10px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 815px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 597px;
+    height: 190px;
+    margin-top: 7px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 596px;
+    margin-top: -26px;
+    margin-bottom: 26px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 821px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 509px;
+    height: 177px;
+    margin-top: -21px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 552px;
+    margin-top: 0;
+    margin-bottom: 48px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 100vh;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 426px;
+    height: 173px;
+    margin-top: -10px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 466px;
+    margin-top: -17px;
+    margin-bottom: 39px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    padding-top: 9px;
+    padding-left: 29px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1094px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 121px;
+    width: 298px;
+    margin-top: 55px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 284px;
+    margin-top: -11px;
+    margin-bottom: 21px;
+  }
+}
